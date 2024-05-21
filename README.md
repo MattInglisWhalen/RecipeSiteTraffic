@@ -1,3 +1,4 @@
+!["Logistic Regression Importances"](https://raw.githubusercontent.com/MattInglisWhalen/RecipeSiteTraffic/main/images/importance_logreg.png "Importances")
 
 This repository is a record of the final project for my Professional Data Scientist certification on DataCamp. The data is synthetic and was produced solely for the purpose of the exam. 
 
